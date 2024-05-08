@@ -1,29 +1,29 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\BB9262\\Desktop\\TO-DO-LIST\\backendToDoList\\",
+  "WorkspaceRootPath": "C:\\Users\\Winder Roman\\Documents\\TO-DO-LIST\\backendToDoList\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DA75B976-8AD4-4FF1-A82E-CD2049F3D485}|backendToDoList\\backendToDoList.csproj|c:\\users\\bb9262\\desktop\\to-do-list\\backendtodolist\\backendtodolist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DA75B976-8AD4-4FF1-A82E-CD2049F3D485}|backendToDoList\\backendToDoList.csproj|c:\\users\\winder roman\\documents\\to-do-list\\backendtodolist\\backendtodolist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DA75B976-8AD4-4FF1-A82E-CD2049F3D485}|backendToDoList\\backendToDoList.csproj|solutionrelative:backendtodolist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DA75B976-8AD4-4FF1-A82E-CD2049F3D485}|backendToDoList\\backendToDoList.csproj|c:\\users\\bb9262\\desktop\\to-do-list\\backendtodolist\\backendtodolist\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{DA75B976-8AD4-4FF1-A82E-CD2049F3D485}|backendToDoList\\backendToDoList.csproj|c:\\users\\winder roman\\documents\\to-do-list\\backendtodolist\\backendtodolist\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{DA75B976-8AD4-4FF1-A82E-CD2049F3D485}|backendToDoList\\backendToDoList.csproj|solutionrelative:backendtodolist\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DA75B976-8AD4-4FF1-A82E-CD2049F3D485}|backendToDoList\\backendToDoList.csproj|c:\\users\\bb9262\\desktop\\to-do-list\\backendtodolist\\backendtodolist\\controllers\\tareascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DA75B976-8AD4-4FF1-A82E-CD2049F3D485}|backendToDoList\\backendToDoList.csproj|c:\\users\\winder roman\\documents\\to-do-list\\backendtodolist\\backendtodolist\\controllers\\tareascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DA75B976-8AD4-4FF1-A82E-CD2049F3D485}|backendToDoList\\backendToDoList.csproj|solutionrelative:backendtodolist\\controllers\\tareascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DA75B976-8AD4-4FF1-A82E-CD2049F3D485}|backendToDoList\\backendToDoList.csproj|c:\\users\\bb9262\\desktop\\to-do-list\\backendtodolist\\backendtodolist\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DA75B976-8AD4-4FF1-A82E-CD2049F3D485}|backendToDoList\\backendToDoList.csproj|c:\\users\\winder roman\\documents\\to-do-list\\backendtodolist\\backendtodolist\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DA75B976-8AD4-4FF1-A82E-CD2049F3D485}|backendToDoList\\backendToDoList.csproj|solutionrelative:backendtodolist\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DA75B976-8AD4-4FF1-A82E-CD2049F3D485}|backendToDoList\\backendToDoList.csproj|c:\\users\\bb9262\\desktop\\to-do-list\\backendtodolist\\backendtodolist\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{DA75B976-8AD4-4FF1-A82E-CD2049F3D485}|backendToDoList\\backendToDoList.csproj|c:\\users\\winder roman\\documents\\to-do-list\\backendtodolist\\backendtodolist\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{DA75B976-8AD4-4FF1-A82E-CD2049F3D485}|backendToDoList\\backendToDoList.csproj|solutionrelative:backendtodolist\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DA75B976-8AD4-4FF1-A82E-CD2049F3D485}|backendToDoList\\backendToDoList.csproj|c:\\users\\bb9262\\desktop\\to-do-list\\backendtodolist\\backendtodolist\\backendtodolist.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{DA75B976-8AD4-4FF1-A82E-CD2049F3D485}|backendToDoList\\backendToDoList.csproj|c:\\users\\winder roman\\documents\\to-do-list\\backendtodolist\\backendtodolist\\backendtodolist.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{DA75B976-8AD4-4FF1-A82E-CD2049F3D485}|backendToDoList\\backendToDoList.csproj|solutionrelative:backendtodolist\\backendtodolist.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
@@ -40,9 +40,9 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\BB9262\\Desktop\\TO-DO-LIST\\backendToDoList\\backendToDoList\\Context\\ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Winder Roman\\Documents\\TO-DO-LIST\\backendToDoList\\backendToDoList\\Context\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "backendToDoList\\Context\\ApplicationDbContext.cs",
-              "ToolTip": "C:\\Users\\BB9262\\Desktop\\TO-DO-LIST\\backendToDoList\\backendToDoList\\Context\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Winder Roman\\Documents\\TO-DO-LIST\\backendToDoList\\backendToDoList\\Context\\ApplicationDbContext.cs",
               "RelativeToolTip": "backendToDoList\\Context\\ApplicationDbContext.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -53,22 +53,21 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\BB9262\\Desktop\\TO-DO-LIST\\backendToDoList\\backendToDoList\\appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Winder Roman\\Documents\\TO-DO-LIST\\backendToDoList\\backendToDoList\\appsettings.json",
               "RelativeDocumentMoniker": "backendToDoList\\appsettings.json",
-              "ToolTip": "C:\\Users\\BB9262\\Desktop\\TO-DO-LIST\\backendToDoList\\backendToDoList\\appsettings.json",
+              "ToolTip": "C:\\Users\\Winder Roman\\Documents\\TO-DO-LIST\\backendToDoList\\backendToDoList\\appsettings.json",
               "RelativeToolTip": "backendToDoList\\appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-04-25T22:39:09.73Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-25T22:39:09.73Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\BB9262\\Desktop\\TO-DO-LIST\\backendToDoList\\backendToDoList\\Properties\\launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Winder Roman\\Documents\\TO-DO-LIST\\backendToDoList\\backendToDoList\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "backendToDoList\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\BB9262\\Desktop\\TO-DO-LIST\\backendToDoList\\backendToDoList\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Winder Roman\\Documents\\TO-DO-LIST\\backendToDoList\\backendToDoList\\Properties\\launchSettings.json",
               "RelativeToolTip": "backendToDoList\\Properties\\launchSettings.json",
               "ViewState": "AQIAABUAAAAAAAAAAAAAABkAAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -78,24 +77,23 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "TareasController.cs",
-              "DocumentMoniker": "C:\\Users\\BB9262\\Desktop\\TO-DO-LIST\\backendToDoList\\backendToDoList\\Controllers\\TareasController.cs",
+              "DocumentMoniker": "C:\\Users\\Winder Roman\\Documents\\TO-DO-LIST\\backendToDoList\\backendToDoList\\Controllers\\TareasController.cs",
               "RelativeDocumentMoniker": "backendToDoList\\Controllers\\TareasController.cs",
-              "ToolTip": "C:\\Users\\BB9262\\Desktop\\TO-DO-LIST\\backendToDoList\\backendToDoList\\Controllers\\TareasController.cs",
+              "ToolTip": "C:\\Users\\Winder Roman\\Documents\\TO-DO-LIST\\backendToDoList\\backendToDoList\\Controllers\\TareasController.cs",
               "RelativeToolTip": "backendToDoList\\Controllers\\TareasController.cs",
               "ViewState": "AQIAADkAAAAAAAAAAAAqwD4AAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-25T21:40:41.26Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-25T21:40:41.26Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\BB9262\\Desktop\\TO-DO-LIST\\backendToDoList\\backendToDoList\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Winder Roman\\Documents\\TO-DO-LIST\\backendToDoList\\backendToDoList\\Program.cs",
               "RelativeDocumentMoniker": "backendToDoList\\Program.cs",
-              "ToolTip": "C:\\Users\\BB9262\\Desktop\\TO-DO-LIST\\backendToDoList\\backendToDoList\\Program.cs",
+              "ToolTip": "C:\\Users\\Winder Roman\\Documents\\TO-DO-LIST\\backendToDoList\\backendToDoList\\Program.cs",
               "RelativeToolTip": "backendToDoList\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAABAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-25T22:24:28.94Z",
               "EditorCaption": ""
@@ -104,9 +102,9 @@
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "backendToDoList.csproj",
-              "DocumentMoniker": "C:\\Users\\BB9262\\Desktop\\TO-DO-LIST\\backendToDoList\\backendToDoList\\backendToDoList.csproj",
+              "DocumentMoniker": "C:\\Users\\Winder Roman\\Documents\\TO-DO-LIST\\backendToDoList\\backendToDoList\\backendToDoList.csproj",
               "RelativeDocumentMoniker": "backendToDoList\\backendToDoList.csproj",
-              "ToolTip": "C:\\Users\\BB9262\\Desktop\\TO-DO-LIST\\backendToDoList\\backendToDoList\\backendToDoList.csproj",
+              "ToolTip": "C:\\Users\\Winder Roman\\Documents\\TO-DO-LIST\\backendToDoList\\backendToDoList\\backendToDoList.csproj",
               "RelativeToolTip": "backendToDoList\\backendToDoList.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
