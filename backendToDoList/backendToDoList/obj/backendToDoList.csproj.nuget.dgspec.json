@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Winder Roman\\Desktop\\backendToDoList\\backendToDoList\\backendToDoList.csproj": {}
+    "C:\\Users\\BB9262\\Desktop\\TO-DO-LIST\\backendToDoList\\backendToDoList\\backendToDoList.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Winder Roman\\Desktop\\backendToDoList\\backendToDoList\\backendToDoList.csproj": {
+    "C:\\Users\\BB9262\\Desktop\\TO-DO-LIST\\backendToDoList\\backendToDoList\\backendToDoList.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Winder Roman\\Desktop\\backendToDoList\\backendToDoList\\backendToDoList.csproj",
+        "projectUniqueName": "C:\\Users\\BB9262\\Desktop\\TO-DO-LIST\\backendToDoList\\backendToDoList\\backendToDoList.csproj",
         "projectName": "backendToDoList",
-        "projectPath": "C:\\Users\\Winder Roman\\Desktop\\backendToDoList\\backendToDoList\\backendToDoList.csproj",
-        "packagesPath": "C:\\Users\\Winder Roman\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Winder Roman\\Desktop\\backendToDoList\\backendToDoList\\obj\\",
+        "projectPath": "C:\\Users\\BB9262\\Desktop\\TO-DO-LIST\\backendToDoList\\backendToDoList\\backendToDoList.csproj",
+        "packagesPath": "C:\\Users\\BB9262\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\BB9262\\Desktop\\TO-DO-LIST\\backendToDoList\\backendToDoList\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Winder Roman\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\BB9262\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

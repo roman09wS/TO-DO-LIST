@@ -1,5 +1,5 @@
 import axios from "axios";
-
+const BASE_URL = "";
 export const getTasksAll = async () => {
     try {
         return (await axios.get("https://localhost:7090/api/Tareas")).data;
